@@ -4,7 +4,7 @@ Showcasing some amazing collaborative projects where I contributed major feature
 
 ---
 
-## 💼 Empl-Attr – Employee Attrition Predictor  
+## 💼 Empl-Attr – Employee Management & Attrition Platform
 🔗 [GitHub Repo](https://github.com/Mad-iq/Empl-Attr)
 
 **Role:** Backend Developer  
@@ -17,7 +17,7 @@ Showcasing some amazing collaborative projects where I contributed major feature
 
 ---
 
-## 🚗 Carzy – Car Service Booking Platform  
+## 🚗 Carzy – Car Comparison Platform  
 🔗 [GitHub Repo](https://github.com/shornalore/carzy)
 
 **Role:** Backend Developer  
